@@ -13,7 +13,6 @@ link-citations: yes
 bibliography: book.bib
 site: bookdown::bookdown_site
 biblio-style: apalike
-url: http\://github.com/WeeBeasties/report/
 ---
 
 # Executive Summary {-}
