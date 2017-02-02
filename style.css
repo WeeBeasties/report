@@ -12,3 +12,12 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+h1, h2{
+	background: firebrick;
+	width: 100%;
+	color: white;
+	padding:10px;
+	line-height: 2em;
+	font-size: 18pt;
+}
