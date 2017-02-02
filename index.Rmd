@@ -1,7 +1,7 @@
 --- 
 title: "A General Education Report"
 author: "Dr. Clifton Franklund"
-date: '`r Sys.Date()`'
+date: "Spring 2017"
 output: 
   bookdown::gitbook:
     includes:
@@ -16,6 +16,6 @@ biblio-style: apalike
 url: http\://github.com/WeeBeasties/report/
 ---
 
-# Preface {-}
+# Executive Summary {-}
 
 This is the very first part of the book.
