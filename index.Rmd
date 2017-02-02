@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "Yihui Xie"
+title: "A General Education Report"
+author: "Dr. Clifton Franklund"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: 
@@ -11,7 +11,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: WeeBeasties/bookdown-demo
+github-repo: WeeBeasties/report
 description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
 ---
 
