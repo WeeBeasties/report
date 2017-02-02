@@ -1,5 +1,7 @@
 [
 ["index.html", "A General Education Report Executive Summary", " A General Education Report Dr. Clifton Franklund Spring 2017 Executive Summary This is the very first part of the book. "],
-["introduction.html", "Chapter 1 Introduction", " Chapter 1 Introduction This is the first real chapter. "],
-["diving-in.html", "Chapter 2 Diving In", " Chapter 2 Diving In Now let’s talk details. "]
+["intro.html", "Introduction", " Introduction This is the first real chapter. "],
+["methods.html", "Methods", " Methods Now let’s talk details. "],
+["results.html", "Results", " Results Now I’ll teach you some crazy math, but I need to work it out first… "],
+["discussion.html", "Discussion", " Discussion Now I’ll teach you some crazy math, but I need to work it out first… "]
 ]

@@ -1,3 +1,3 @@
-# Diving In
+# Methods {#methods -}
 
 Now let's talk details.
