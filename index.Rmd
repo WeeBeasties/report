@@ -1,15 +1,16 @@
 --- 
 title: "A Minimal Bookdown Book"
 author: "Sean Kross"
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
+date: '`r Sys.Date()`'
+output: pdf_document
+description: A report template for General Education.
 documentclass: book
-bibliography: [book.bib]
-biblio-style: apalike
+github-repo: WeeBeasties/report
 link-citations: yes
-github-repo: seankross/bookdown-start
-url: 'http\://seankross.com/bookdown-start/'
-description: "Everything you need (and nothing more) to start a bookdown book."
+bibliography: book.bib
+site: bookdown::bookdown_site
+biblio-style: apalike
+url: http\://github.com/WeeBeasties/report/
 ---
 
 # Preface {-}
