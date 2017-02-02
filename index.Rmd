@@ -1,8 +1,11 @@
 --- 
-title: "A Minimal Bookdown Book"
-author: "Sean Kross"
+title: "A General Education Report"
+author: "Dr. Clifton Franklund"
 date: '`r Sys.Date()`'
-output: pdf_document
+output: 
+  bookdown::gitbook:
+    includes:
+      after_body: disqus.html
 description: A report template for General Education.
 documentclass: book
 github-repo: WeeBeasties/report
