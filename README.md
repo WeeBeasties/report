@@ -1,3 +1,5 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/ for how to compile this example.
+This is the absolute minimum you need to start a [bookdown](https://bookdown.org/home/about.html) book. You can find the
+preview of this book at http://seankross.com/bookdown-start/
 
-You can find the preview of this example at https://bookdown.org/yihui/bookdown-demo/
+All of the content of this repository is licensed 
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/).
