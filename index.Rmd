@@ -7,7 +7,7 @@ output:
     includes:
       after_body: disqus.html
 description: A report template for General Education.
-documentclass: book
+documentclass: SelfArx
 github-repo: WeeBeasties/report
 link-citations: yes
 bibliography: book.bib
