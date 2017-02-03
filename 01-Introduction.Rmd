@@ -1,4 +1,4 @@
 # Introduction {#intro -}
 
-This is the first real chapter.
+This is the first real chapter. Here is an attempt to cite a paper [@xie2015].
 
