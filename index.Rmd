@@ -1,6 +1,7 @@
 --- 
 title: "A General Education Report"
-author: "Dr. Clifton Franklund"
+subtitle: "Natural Sciences FLO1"
+author: "Dr. Clifton Franklund^[General Education Coordinator]"
 date: "Spring 2017"
 output: 
   bookdown::gitbook:
