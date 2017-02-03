@@ -51,7 +51,9 @@
 \usepackage{alltt} % Document font size and equations flushed left
 \usepackage[english]{babel}         % Specify a different language here - english by default
 \usepackage{lipsum}                 % Required to insert dummy text. To be removed otherwise
-\usepackage{fancyhdr}               % Required to put the logo on the top of the first page
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\rhead{\includegraphics{./art/logo.png}}
 \usepackage{float}                  % Extra help with figures and tables
 \usepackage{caption}                % Helps to format captions
 \captionsetup[table]{skip=3pt}      % Spacing after caption

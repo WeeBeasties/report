@@ -8,6 +8,11 @@ output:
       after_body: disqus.html
 description: A report template for General Education.
 documentclass: SelfArx
+header-includes: 
+   \usepackage{graphicx}
+   \usepackage{fancyhdr}
+   \pagestyle{fancy}
+   \fancyhead[L]{\includegraphics[width=5cm]{./art/logo.png}
 github-repo: WeeBeasties/report
 link-citations: yes
 bibliography: book.bib
@@ -16,5 +21,9 @@ biblio-style: apalike
 ---
 
 # Abstract {#abstract -}
+<div id="logo">
+![""](./art/logo.png)
+</div>
+This is some text in front.  
 
 This is the very first part of the book.
