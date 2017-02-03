@@ -21,9 +21,5 @@ biblio-style: apalike
 ---
 
 # Abstract {#abstract -}
-<div id="logo">
-![""](./art/logo.png)
-</div>
 This is some text in front.  
-
 This is the very first part of the book.
