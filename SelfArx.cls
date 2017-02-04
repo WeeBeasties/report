@@ -68,7 +68,7 @@ justification=raggedright]{caption}
 \RequirePackage{lastpage}  % Number of pages in the document
 \pagestyle{fancy}          % Enables the custom headers/footers
 % Headers
-\lhead{\includegraphics[height=0.55cm]{./art/logo.png}}%
+%\lhead{\includegraphics[height=0.55cm]{./art/logo.png}}%
 \chead{}%
 \rhead{\small\sffamily\bfseries \thepage/\pageref{LastPage}}
 % Footers
@@ -118,7 +118,7 @@ justification=raggedright]{caption}
 \titlespacing*{\paragraph}{0pc}{1.5ex \@plus2pt \@minus1pt}{10pt}
 
 %----------------------------------------------------------------------
-%	TABLEOFCONTENTS SET-UP
+%	TABLE OF CONTENTS SET-UP
 %----------------------------------------------------------------------
 \newlength{\tocsep}
 \setlength\tocsep{0pc} % Sets the indentation of the sections in the table of contents
