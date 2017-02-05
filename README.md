@@ -1,5 +1,4 @@
-This is the absolute minimum you need to start a [bookdown](https://bookdown.org/home/about.html) book. You can find the
-preview of this book at http://seankross.com/bookdown-start/
+This is a template for creating General Education assessment reports at Ferris State University. This repo will be linked to a specific Open Science Framework project and available freely online. 
 
 All of the content of this repository is licensed 
-[CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). Dr. Clifton Franklund
