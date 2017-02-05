@@ -8,3 +8,4 @@ rmd_files:
 clean: [packages.bib, bookdown.bbl]
 new_session: no
 comments: true
+edit: https://github.com/WeeBeasties/report/blob/master/%s
