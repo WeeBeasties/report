@@ -1,5 +1,5 @@
 --- 
-title: "A General Education Report^[Report number 201701, DOI [10.17605/OSF.IO/T6U8M](https://doi.org/10.17605/OSF.IO/T6U8M)]"
+title: "A General Education Report^[Report number 201701, DOI [10.17605/OSF.IO/FD6QR](https://doi.org/10.17605/OSF.IO/FD6QR)]"
 subtitle: "Natural Sciences FLO1"
 author: 
   - "Dr. Clifton Franklund"
