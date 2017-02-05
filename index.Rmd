@@ -1,7 +1,9 @@
 --- 
-title: "A General Education Report"
+title: "A General Education Report^[Report number 201701, DOI [10.17605/OSF.IO/T6U8M](https://doi.org/10.17605/OSF.IO/T6U8M)]"
 subtitle: "Natural Sciences FLO1"
-author: "Dr. Clifton Franklund^[General Education Coordinator]"
+author: 
+  - "Dr. Clifton Franklund"
+  - "General Education Coordinator"
 date: "Spring 2017"
 output: 
   bookdown::gitbook:
@@ -9,11 +11,6 @@ output:
       after_body: disqus.html
 description: A report template for General Education.
 documentclass: SelfArx
-header-includes: 
-   \usepackage{graphicx}
-   \usepackage{fancyhdr}
-   \pagestyle{fancy}
-   \fancyhead[L]{\includegraphics[width=5cm]{./art/logo.png}
 github-repo: WeeBeasties/report
 link-citations: yes
 bibliography: book.bib
@@ -22,5 +19,4 @@ biblio-style: apalike
 ---
 
 # Abstract {#abstract -}
-This is some text in front.  
-This is the very first part of the book.
+Lorem ipsum dolor sit amet, id integer adipiscing mi suspendisse, justo ut porta, ligula nostra facilisis sit, quisque ipsum vivamus libero auctor. Euismod risus lacus vestibulum nec, suscipit ultricies pellentesque, nec id sollicitudin nulla fermentum parturient faucibus. Vel ac amet sunt sed, luctus etiam suscipit ridiculus lacus. Dui posuere suspendisse vestibulum aenean id vel, hendrerit in, rutrum tempus in eget, mollis etiam felis lorem, montes posuere. Elementum posuere, enim a proin quis, ipsum elit et est. Dolor ut. Eget vel porttitor egestas, dignissim sodales, justo eros, metus posuere laoreet magnis, wisi consectetuer.
